@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/jacob/OneDrive/Desktop/School/GIMM 400/GIMM400_Unreal_Game/GIMM400_Unreal/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/jacob/OneDrive/Desktop/School/GIMM 400/GIMM400_Unreal_Game/GIMM400_Unreal/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/jacob/OneDrive/Desktop/School/GIMM 400/GIMM400_Unreal_Game/GIMM400_Unreal/Content/Blueprints/Door/BP_Door.uasset",
+				"C:/Users/jacob/OneDrive/Desktop/School/GIMM 400/GIMM400_Unreal_Game/GIMM400_Unreal/Content/Blueprints/E_Text/E_Widget.uasset",
+				"C:/Users/jacob/OneDrive/Desktop/School/GIMM 400/GIMM400_Unreal_Game/GIMM400_Unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/PV/GDEVDSHAINIC10Q9XOVMC5.uasset",
+				"C:/Users/jacob/OneDrive/Desktop/School/GIMM 400/GIMM400_Unreal_Game/GIMM400_Unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/OS/Q5FNT5F4K43TD621HCMFGJ.uasset",
+				"C:/Users/jacob/OneDrive/Desktop/School/GIMM 400/GIMM400_Unreal_Game/GIMM400_Unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/HC/C4I2NE6JWBUENVSS0ZJL8P.uasset",
+				"C:/Users/jacob/OneDrive/Desktop/School/GIMM 400/GIMM400_Unreal_Game/GIMM400_Unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RT/84T3YZR408883705CMTY9G.uasset",
+				"C:/Users/jacob/OneDrive/Desktop/School/GIMM 400/GIMM400_Unreal_Game/GIMM400_Unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FW/WL4HT2HXYPJYNNDCB4ODME.uasset",
+				"C:/Users/jacob/OneDrive/Desktop/School/GIMM 400/GIMM400_Unreal_Game/GIMM400_Unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/X1/ALODEX3K2DTGH05KN4D818.uasset"
 			]
 		}
 	]
